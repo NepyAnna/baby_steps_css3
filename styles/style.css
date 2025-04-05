@@ -19,10 +19,7 @@ h4 {
 }
 
 .content {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    margin-top: 10px;
+    margin-bottom: 40px;
 }
 
 .content p {
@@ -30,5 +27,8 @@ h4 {
 }
 
 .content img {
+    float: left;
     height: 120px;
+    margin-right: 20px;
+    margin-bottom: 10px;
 }
